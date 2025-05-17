@@ -1,8 +1,4 @@
-# os.listdir para navegar em caminhos
-# /Users/luizotavio/Desktop/EXEMPLO
-# C:\Users\luizotavio\Desktop\EXEMPLO
-# caminho = r'C:\\Users\\luizotavio\\Desktop\\EXEMPLO'
-# caminho = 'D:\\'
+
 
 import os
 def rastrear_documentos(caminho:str,extensao:str):
